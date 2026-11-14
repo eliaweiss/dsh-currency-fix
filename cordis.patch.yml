@@ -1,0 +1,4 @@
+# dsh-currency-fix bundle layer: mounts the plugin row.
+- insert:
+    - id: currency-fix
+      name: dsh-currency-fix
